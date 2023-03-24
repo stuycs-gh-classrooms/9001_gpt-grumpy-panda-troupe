@@ -1,9 +1,8 @@
 # ChatGPT on Graphics
 
-### Name0: YOUR NAME HERE
-### Name1: TABLE_BUDDY NAME HERE
-### Name2: TABLE_BUDY+ NAME HERE 
-### Name3: TABLE_BUDY+ NAME HERE (if applicable, delete this line if not)
+### Name0: Yatlong Chan
+### Name1: Nicholas Tarsis
+### Name2: Aahan Mehta
 
 ---
 
